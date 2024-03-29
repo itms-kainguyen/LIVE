@@ -1,0 +1,7 @@
+
+$o-user-color-palette: map-merge($o-user-color-palette, o-map-omit((
+    'menu': 1,
+    'menu-custom': 'NULL',
+    'o-color-1': rgba(228, 120, 12, 0.04),
+    // -- hook --
+)));

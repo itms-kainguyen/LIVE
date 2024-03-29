@@ -1,0 +1,7 @@
+
+$o-user-color-palette: map-merge($o-user-color-palette, o-map-omit((
+    'o-cc1-btn-primary-border': 'black',
+    'o-cc3-btn-primary': #FF9C00,
+    'o-cc3-btn-secondary': 'black',
+    // -- hook --
+)));

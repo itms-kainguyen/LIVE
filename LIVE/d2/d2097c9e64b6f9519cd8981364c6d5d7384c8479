@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 336.5 84.5">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        letter-spacing: .04em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #2d2fc7;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #ac8aff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .96px;
+      }
+
+      .cls-6 {
+        fill: #0000a3;
+      }
+
+      .cls-7 {
+        fill: #63c;
+      }
+
+      .cls-7, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        letter-spacing: .03em;
+      }
+
+      .cls-5 {
+        fill: none;
+      }
+
+      .cls-9 {
+        font-family: SegoeUIVariable-LightText, 'Segoe UI Variable';
+        font-size: 14px;
+        font-variation-settings: 'wght' 300, 'opsz' 10;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <rect class="cls-8" x="8.49" y=".38" width="314" height="84" rx="13.9" ry="13.9"/>
+  <g>
+    <text class="cls-9" transform="translate(65.46 36.15)"><tspan class="cls-2" x="0" y="0">Ma</tspan><tspan class="cls-3" x="19.76" y="0">r</tspan><tspan class="cls-2" x="24.78" y="0">ia H</tspan><tspan class="cls-1" x="50.23" y="0" xml:space="preserve"> has checked in and is now </tspan><tspan class="cls-1"><tspan x="0" y="16.8">completing her </tspan><tspan class="cls-6" x="101.39" y="16.8">medical checklist</tspan></tspan></text>
+    <path class="cls-7" d="M278.49,48.15c0,.39.32.71.71.71h6.85l-3.06,3.06c-.28.28-.28.73,0,1.01.14.14.32.21.5.21s.36-.07.5-.21l4.28-4.28s.06-.07.09-.11c.01-.02.02-.04.03-.05.01-.02.03-.04.04-.07,0-.02.02-.05.02-.07,0-.02.01-.04.02-.06.02-.09.02-.19,0-.28,0-.02-.01-.04-.02-.06,0-.02-.01-.05-.02-.07-.01-.02-.02-.05-.04-.07,0-.02-.02-.04-.03-.05-.03-.04-.06-.08-.09-.11l-4.28-4.28c-.28-.28-.73-.28-1.01,0-.28.28-.28.73,0,1.01l3.06,3.06h-6.85c-.39,0-.71.32-.71.71Z"/>
+  </g>
+  <g>
+    <path class="cls-5" d="M38.07,27.47l-9.05,15.67c-1.52,2.63.38,5.92,3.42,5.92h18.09c3.04,0,4.94-3.29,3.42-5.92l-9.05-15.67c-1.52-2.63-5.32-2.63-6.84,0Z"/>
+    <g>
+      <circle class="cls-4" cx="41.49" cy="43.69" r=".35"/>
+      <line class="cls-5" x1="41.49" y1="31.37" x2="41.49" y2="41.2"/>
+    </g>
+  </g>
+</svg>
